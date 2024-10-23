@@ -1,4 +1,4 @@
-# 19CS415-Implement-the-AES-Encryption-and-decryption
+# EX-8 | Implement the AES Encryption and decryption
 ## Aim:
 Implement the AES Encryption and decryption
 ## Algorithm:
